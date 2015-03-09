@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Шунт</string>
+    <string name="action_about">О разработчике</string>
+    <string-array name="screen_array">
+        <item>Задача 1</item>
+        <item>Задача 2</item>
+        <item>Задача 3</item>
+        <item>Задача 4</item>
+        <item>Задача 5</item>
+        <item>Задача 6</item>
+        <item>Задача 7</item>
+        <item>Задача 8</item>
+        <item>About me</item>
+    </string-array>
+    <string name="action_settings">Настройки</string>
+    <string name="drawer_close">Закрыть дравер</string>
+    <string name="drawer_open">Открыть дравер</string>
+    <string name="screen_about">Приложение написано Романом Заболотских \n     Специально для турнира по физике!</string>
+</resources>
